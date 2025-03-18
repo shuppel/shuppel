@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 **About Me**
-- 🎯 **Technical Expertise**: Acquisitions/Procurement, Business Management, IT Product Development, Project Management
+- 🎯 **Technical Expertise**: Technical Product Management, Scrum/Agile Delivery, Vibe-Coding Polymath. 
 - 📚 **Certifications**:
   - *Nielsen Norman Group (NNG) Master Certificate* in User Interaction, User Research, User Management
   - *SAFe Agile SP 4*

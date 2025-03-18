@@ -16,7 +16,7 @@
    - Emerging Technologoies (AI/ML, Prompt Engineering)
 
 - 💡 **Core Values**: Innovation, Pragmatism, Integrity  
-- 🎯 **Goal**: Helping organizations simplify and document complex processes effectively. Reduce IT Spend/Waste.
+- 🎯 **Goal**: start working on LocalFirst projects, build interesting software that shifts the paradigm from big data and exploiting people's privacy. Social media is cooking our brains.
 
 ---
 

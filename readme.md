@@ -47,9 +47,8 @@
 ---
 
 ### 🚀 **Current Projects**
-- 🔹 Building Risk Management Suites  
-- 🔹 Developing Market Marker (Simplified MRR Tool)  
-- 🔹 Exploring Modular Microbusiness Sourcing  
+- 🔹 Working on Product/Dev Team Best Practices Technical Product Management
+- 🔹 Prompt Engineering Cursor and AI Best Practices
 
 ---
 

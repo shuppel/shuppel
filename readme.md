@@ -1,5 +1,5 @@
 <h1 align="center">The name is Shupp, Erikk Shupp.👋</h1>
-<h3 align="center">Product/Design/Prompts | Agile Lead and Project Oversight | IT Spend Fiscal Conservative</h3>
+<h3 align="center">Product/Design/Prompts | Agile Lead and Project Oversight </h3>
 
 ---
 

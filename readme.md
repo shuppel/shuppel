@@ -7,13 +7,15 @@
 - 🎯 **Technical Expertise**: Technical Product Management, Scrum/Agile Delivery, Vibe-Coding Polymath. 
 - 📚 **Certifications**:
   - *Nielsen Norman Group (NNG) Master Certificate* in User Interaction, User Research, User Management
+  - *Product School* - Product Manager Certificate
   - *SAFe Agile SP 4*
   - *ITIL v4 Foundations*  
 - 📝 **Focus Areas**:  
    - IT Product/Project
+   - Emerging Technologoies (AI/ML,LLM,GraphRAG, Prompt Engineering)
    - Process Improvement & Risk Management  
    - Strategic Acquisition and Procurement Support  
-   - Emerging Technologoies (AI/ML, Prompt Engineering)
+   
 
 - 💡 **Core Values**: Innovation, Pragmatism, Integrity  
 - 🎯 **Goal**: start working on LocalFirst projects, build interesting software that shifts the paradigm from big data and exploiting people's privacy. Social media is cooking our brains.

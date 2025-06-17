@@ -12,7 +12,7 @@
   - *ITIL v4 Foundations*  
 - 📝 **Focus Areas**:  
    - IT Product/Project
-   - Emerging Technologoies (AI/ML,LLM,GraphRAG, Prompt Engineering)
+   - Emerging Technologoies (LLM,MCP, GraphRAG, Prompt Engineering)
    - Process Improvement & Risk Management  
    - Strategic Acquisition and Procurement Support  
    

@@ -17,7 +17,7 @@
    - Strategic Acquisition and Procurement Support  
    
 
-- 💡 **Core Values**: Innovation, Pragmatism, Integrity  
+- 💡 **Core Values**: Innovation, Pragmatism, Integrity; I beleive in Open Source Learning and advocate for using frameworks like Open Source Society University to learn for free!  
 - 🎯 **Goal**: start working on LocalFirst projects, build interesting software that shifts the paradigm from big data and exploiting people's privacy. Social media is cooking our brains.
 
 ---
@@ -39,7 +39,7 @@
 
 ### 🔗 **Connect With Me**
 - 🌐 **LinkedIn**: [linkedin.com/in/shupp-erikk](https://www.linkedin.com/in/shupp-erikk/)  
-- 📧 **Email**: eshupp@nodetus.com
+- 📧 **Email**: erikk@shupp.dev
 
 ---
 
@@ -57,8 +57,9 @@
 ### 🎓 **Certifications**
 - 📜 Master of Science, Technology Management | George Mason University
 - 📜 Bachelor of Arts, English | Longwood University
-- 📜 PMP Certification (PMBOK 7)  
+- 📜 64 Credits in Computer Scinece | Open Source Society University 
 - 🛡 NNG Master Certifiate
+- 
 
 ---
 

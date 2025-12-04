@@ -4,21 +4,25 @@
 ---
 
 ### **About Me**
--  **Technical Expertise**: Technical Product Management, Scrum/Agile Delivery, Vibe-Coding Polymath. 
--  **Certifications**:
-  -- *Nielsen Norman Group (NNG) Master Certificate* in User Interaction, User Research, User Management
-  -- *Product School* - Product Manager Certificate
-  -- *SAFe Agile SP 4*
-  -- *ITIL v4 Foundations*  
--  **Focus Areas**:  
-   - IT Product/Project
-   - Emerging Technologoies (LLM,MCP, GraphRAG, Prompt Engineering)
-   - Process Improvement & Risk Management  
-   - Strategic Acquisition and Procurement Support  
-   
+**Technical Expertise**: Technical Product Management, Scrum/Agile Delivery, Vibe-Coding Polymath.
 
--  **Core Values**: Innovation, Pragmatism, Integrity; I beleive in Open Source Learning and advocate for using frameworks like Open Source Society University to learn for free!  
--  **Goal**: start working on LocalFirst projects, build interesting software that shifts the paradigm from big data and exploiting people's privacy. Social media is cooking our brains.
+**Certifications**:
+  - *Nielsen Norman Group (NNG) Master Certificate* in User Interaction, User Research, User Management
+  - *Product School* - Product Manager Certificate
+  - *SAFe Agile SP 4*
+  - *ITIL v4 Foundations*  
+  
+**Focus Areas**:  
+   - Product
+   - Prose
+   - Design
+   - Prompt/Context Engineering
+   - System Engineering
+   - LLM-assisted Coding
+   
+**Core Values**: Innovation, Pragmatism, Integrity; I beleive in Open Source Learning and advocate for using frameworks like Open Source Society University to learn for free!  
+
+**Goal**: start working on LocalFirst projects, build interesting software that shifts the paradigm from big data and exploiting people's privacy. Social media is cooking our brains.
 
 ---
 

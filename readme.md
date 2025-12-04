@@ -1,4 +1,4 @@
-<h1 align="center">The name is Shupp, Erikk Shupp. Hi.</h1>
+<h1 align="center">The name's Shupp, Erikk Shupp.</h1>
 <h3 align="center">Product, Design, Humanity, etc. </h3>
 
 ---

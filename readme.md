@@ -6,10 +6,10 @@
 ### **About Me**
 -  **Technical Expertise**: Technical Product Management, Scrum/Agile Delivery, Vibe-Coding Polymath. 
 -  **Certifications**:
-  - *Nielsen Norman Group (NNG) Master Certificate* in User Interaction, User Research, User Management
-  - *Product School* - Product Manager Certificate
-  - *SAFe Agile SP 4*
-  - *ITIL v4 Foundations*  
+  -- *Nielsen Norman Group (NNG) Master Certificate* in User Interaction, User Research, User Management
+  -- *Product School* - Product Manager Certificate
+  -- *SAFe Agile SP 4*
+  -- *ITIL v4 Foundations*  
 -  **Focus Areas**:  
    - IT Product/Project
    - Emerging Technologoies (LLM,MCP, GraphRAG, Prompt Engineering)
@@ -23,15 +23,15 @@
 ---
 
 ###  **What I Do**
-- ** IT Product and Project**:  
+- **IT Product and Project**:  
    - Developed detailed, compliant templates and libraries for project management and IT advisory.  
    - Specialized in data gathering, analysis, and benchmarking methods (e.g., Assumption Analysis, Earned Value Analysis, Cost of Quality).  
 
-- ** IT Advisory & Risk Management**:  
+- **IT Advisory & Risk Management**:  
    - Developing frameworks for benchmarking and testing vendor products.
    - Assessing new spending trends and IT spend taxonomy needs.
 
-- ** Acquisition & Procurement Solutions**:  
+- **Acquisition & Procurement Solutions**:  
    - Focus on helping acquisition offices via application and solution development.
    - Innovate better ideas around procurement, specific to technology and professional services.
 
@@ -40,6 +40,8 @@
 ###  **Connect With Me**
 -  **LinkedIn**: [linkedin.com/in/shupp-erikk](https://www.linkedin.com/in/shupp-erikk/)  
 -  **Email**: erikk@shupp.dev
+-  **Thoughtful App Co**: launch@thoughtfulapp.co
+-  **Humansonly.fm**: humansonly.fm
 
 ---
 
@@ -57,9 +59,8 @@
 ###  **Certifications**
 -  Master of Science, Technology Management | George Mason University
 -  Bachelor of Arts, English | Longwood University
--  64 Credits in Computer Scinece | Open Source Society University 
+-  64 Credits in Computer Science | Open Source Society University 
 -  NNG Master Certifiate
-- 
 
 ---
 

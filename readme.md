@@ -41,8 +41,8 @@
 -  **LinkedIn**: [linkedin.com/in/shupp-erikk](https://www.linkedin.com/in/shupp-erikk/)  
 -  **Email**: erikk@shupp.dev
 -  **Thoughtful App Co**: launch@thoughtfulapp.co
--  **Humansonly.fm**: humansonly.fm
-
+-  **Humansonly.fm**: human@humansonly.fm
+  
 ---
 
 ###  **Stats**

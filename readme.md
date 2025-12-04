@@ -20,24 +20,7 @@
    
 **Core Values**: Innovation, Pragmatism, Integrity; I beleive in Open Source Learning and advocate for using frameworks like Open Source Society University to learn for free!  
 
-**Goal**: start working on LocalFirst projects, build interesting software that shifts the paradigm from big data and exploiting people's privacy. Social media is cooking our brains.
-
----
-
-###  **What I Do**
-- **IT Product and Project**:  
-   - Developed detailed, compliant templates and libraries for project management and IT advisory.  
-   - Specialized in data gathering, analysis, and benchmarking methods (e.g., Assumption Analysis, Earned Value Analysis, Cost of Quality).  
-
-- **IT Advisory & Risk Management**:  
-   - Developing frameworks for benchmarking and testing vendor products.
-   - Assessing new spending trends and IT spend taxonomy needs.
-
-- **Acquisition & Procurement Solutions**:  
-   - Focus on helping acquisition offices via application and solution development.
-   - Innovate better ideas around procurement, specific to technology and professional services.
-
----
+**Goal**: human-first, local-first, design-first and grassroots applciations
 
 ###  **Connect With Me**
 -  **LinkedIn**: [linkedin.com/in/shupp-erikk](https://www.linkedin.com/in/shupp-erikk/)  

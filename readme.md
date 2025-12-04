@@ -55,10 +55,13 @@
 ---
 
 ###  **Current Projects**
-- 🔹 Working on Product/Dev Team Best Practices Technical Product Management
-- 🔹 Prompt Engineering Cursor and AI Best Practices
+- www.thoughtfulapp.co (a24 of app marketplace)
+- www.humansonly.fm (semi-anti-tech podcast)
+- www.washingtonrugby.org (webmaster @ WRFC)
+- www.shupp.dev (blog/personal site)
 
----
+### **On-Going Work Opportunities**
+- www.nodetus.com (Fed Consulting Business) 
 
 ###  **Certifications**
 -  Master of Science, Technology Management | George Mason University

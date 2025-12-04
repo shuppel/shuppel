@@ -4,8 +4,6 @@
 ---
 
 ### **About Me**
-**Technical Expertise**: Technical Product Management, Scrum/Agile Delivery, Vibe-Coding Polymath.
-
 **Certifications**:
   - *Nielsen Norman Group (NNG) Master Certificate* in User Interaction, User Research, User Management
   - *Product School* - Product Manager Certificate
